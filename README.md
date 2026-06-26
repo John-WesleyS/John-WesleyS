@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm John Wesley<br>🎓 Computer Science student at SRKR Engineering College.<br><br>💻 MERN Stack Developer passionate about building full-stack applications.<br><br>🚀 Built a full-stack Blinkit Clone and frontend clones of Amazon, Netflix, and Flipkart.<br><br>🧩 Enjoy solving DSA problems and solved 200+ problems across LeetCode and GeeksforGeeks.<br><br>🌱 Always learning and building impactful projects.
+Hi👋 I'm John Wesley<br>🎓 Computer Science student at SRKR Engineering College.<br><br>💻 MERN Stack Developer passionate about building full-stack applications.<br><br>🚀 Built a full-stack Blinkit Clone and frontend clones of Amazon, Netflix, and Flipkart.<br><br>🧩 Enjoy solving DSA problems and solved 100+ problems across LeetCode and GeeksforGeeks.<br><br>🌱 Always learning and building impactful projects.
 
 
 ## 🌐 Socials:
